@@ -1,22 +1,22 @@
 [
   {
     "name": "Mahatma Gandhi",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Mahatma-Gandhi%2C_studio%2C_1931.jpg/800px-Mahatma-Gandhi%2C_studio%2C_1931.jpg"
+    "imageUrl": "https://en.wikipedia.org/wiki/Mahatma_Gandhi#/media/File:Mahatma-Gandhi,_studio,_1931.jpg"
   },
   {
     "name": "Subhas Chandra Bose",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Subhas_Chandra_Bose_NR.jpg"
+    "imageUrl": "https://en.wikipedia.org/wiki/Subhas_Chandra_Bose#/media/File:Subhas_Chandra_Bose_NRB.jpg"
   },
   {
     "name": "Bhagat Singh",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bhagat_Singh_1929.jpg/800px-Bhagat_Singh_1929.jpg"
+    "imageUrl": "https://en.wikipedia.org/wiki/Bhagat_Singh#/media/File:Bhagat_Singh_1929.jpg"
   },
   {
     "name": "Rani Lakshmibai",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Rani_of_Jhansi.jpg"
+    "imageUrl": "https://en.wikipedia.org/wiki/Rani_of_Jhansi#/media/File:Rani_of_jhansi.jpg"
   },
   {
     "name": "Dr. B.R. Ambedkar",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ambedkar_1939.jpg/800px-Ambedkar_1939.jpg"
+    "imageUrl": "https://en.wikipedia.org/wiki/B._R._Ambedkar#/media/File:Dr._Bhimrao_Ambedkar.jpg"
   }
 ]
