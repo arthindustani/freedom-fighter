@@ -1,22 +1,14 @@
 [
   {
     "name": "Mahatma Gandhi",
-    "imageUrl": "https://en.wikipedia.org/wiki/Mahatma_Gandhi#/media/File:Mahatma-Gandhi,_studio,_1931.jpg"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg/800px-Mahatma-Gandhi%2C_studio%2C_1931.jpg"
   },
   {
     "name": "Subhas Chandra Bose",
-    "imageUrl": "https://en.wikipedia.org/wiki/Subhas_Chandra_Bose#/media/File:Subhas_Chandra_Bose_NRB.jpg"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Subhas_Chandra_Bose_NRB.jpg/800px-Subhas_Chandra_Bose_NRB.jpg"
   },
   {
     "name": "Bhagat Singh",
-    "imageUrl": "https://en.wikipedia.org/wiki/Bhagat_Singh#/media/File:Bhagat_Singh_1929.jpg"
-  },
-  {
-    "name": "Rani Lakshmibai",
-    "imageUrl": "https://en.wikipedia.org/wiki/Rani_of_Jhansi#/media/File:Rani_of_jhansi.jpg"
-  },
-  {
-    "name": "Dr. B.R. Ambedkar",
-    "imageUrl": "https://en.wikipedia.org/wiki/B._R._Ambedkar#/media/File:Dr._Bhimrao_Ambedkar.jpg"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bhagat_Singh_1929.jpg/800px-Bhagat_Singh_1929.jpg"
   }
 ]
